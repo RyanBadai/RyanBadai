@@ -31,7 +31,7 @@
 
 ###
 
-<p align="left">I'm an undergraduate Data Science student in UPN "Veteran" Jawa Timur who has interesting in Data and Machine Learning. I have knowledge of programs related to Data Science, such as Python, Excel, and SQL.<br><br>- 📚 I'm currently learning Python<br>- 💬 Ask me about anything.<br>- ⚡ In my free time I like to watch Movie<br>- 😄 Pronouns: He/His.</p>
+<p align="left">I'm an undergraduate Data Science student in UPN "Veteran" Jawa Timur who has interesting in Data and Machine Learning. I have knowledge of programs related to Data Science, such as Python, Excel, and SQL.<br><br>- 📚 I'm currently learning Python<br>- 💬 Ask me about anything.<br>- ⚡ In my free time I like to watch Movie<br>- 😄 Pronouns: He/Him.</p>
 
 ###
 
