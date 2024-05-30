@@ -31,7 +31,7 @@
 
 ###
 
-<p align="left">I'm an undergraduate Data Science student in UPN "Veteran" Jawa Timur who has interesting in Data and Machine Learning. I have knowledge of programs related to Data Science, such as Python, Excel, and SQL.<br><br>- 📚 I'm currently learning Python<br>- 💬 Ask me about anything.<br>- ⚡ In my free time I like to watch Movie<br>- 😄 Pronouns: He/Him.</p>
+<p align="left">I have the ability in data analysis, statistical modeling, and machine learning. Skilled in Python, R, and SQL, with a keen ability to collect, clean, and derive insights from diverse datasets. Proficient in presenting analysis results through visualization tools like Matplotlib and Seaborn. Well-versed in data engineering tools including Pentaho, Spark, and Oracle. Possessing strong collaborative abilities, committed to ongoing learning, and dedicated to advancing expertise in the field of data science.<br><br>- 📚 I'm currently learning Python<br>- 💬 Ask me about anything.<br>- ⚡ In my free time I like to watch Movie<br>- 😄 Pronouns: He/Him.</p>
 
 ###
 
